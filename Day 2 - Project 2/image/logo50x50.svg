@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 50.000001 50"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer2">
+    <rect
+       style="fill:#c83737;stroke-width:1.42866;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.85733, 1.42866"
+       id="rect2"
+       width="50"
+       height="50"
+       x="0"
+       y="0"
+       ry="0.48339906" />
+  </g>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.7154px;line-height:1;font-family:Shell;-inkscape-font-specification:Shell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:1.72563;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:3.45128, 1.72563"
+       x="28.985981"
+       y="22.068094"
+       id="text1"><tspan
+         id="tspan1"
+         x="28.985981"
+         y="22.068094"
+         style="fill:#ffffff;stroke-width:1.72563">Logo</tspan><tspan
+         x="28.985981"
+         y="39.783493"
+         id="tspan2"
+         style="fill:#ffffff;stroke-width:1.72563">Here</tspan></text>
+  </g>
+</svg>
